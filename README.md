@@ -7,6 +7,8 @@ Features
 - Responsive Design: Ensures optimal viewing on various devices.
 - Project Showcase: Highlights skills and achievements.
 - Technology Stack: HTML, CSS, and a touch of JavaScript.
+  
+Explore my website live at https://beamish-otter-c0f1fd.netlify.app/
 
 Acknowledgments
 
